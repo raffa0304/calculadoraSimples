@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.titulo {
+    color: white;
+}
+
+.conta {
+    font-size: 40px;
+}
+
+button {
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+input {
+    height: 50px;
+}
+
+select {
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+}
+
+.resultado {
+    color: whitesmoke;
+    font-size: 40px;
+}
